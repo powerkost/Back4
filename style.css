@@ -1,7 +1,3 @@
-#main-aside-wrapper {
-  background-color: #3CB371;
-}
-
 
 #cont {
     padding: 15px;
@@ -17,6 +13,6 @@ p {
 }
 
 footer{
-    background-color: #3CB371;
+    
     height: 20px;
 }
